@@ -1,12 +1,14 @@
-<#
+/*
  * File: boot.ps1
  * Author: Wendel Hammes
  * License: GPL-3.0
-#>
+*/
+
+console.clear();
 
 const {exec} = require('child_process');
 
-exec('cd ../../ && npm start', (error, stdout, stderr) => {
+exec('cd ../../ && node .', (error, stdout, stderr) => {
   if (error) {
     console.log(`[ERROR]: ${error.message}`);
     return;
