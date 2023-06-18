@@ -1,0 +1,41 @@
+{
+    "welcome": "Hello,",
+    "select_option": "Select the option you would like to perform.",
+
+    "start_app": "Distay",
+    "start_desktop": "DESKTOP APP - Distay",
+
+    "support": "Support",
+    "settings": "Settings",
+    "update": "Check for Updates",
+    "language": "Language",
+    "go_back": "Go Back",
+    "done": "Done!",
+    "exit": "Exit",
+
+    "discordserver": "Discord Server",
+    "submit_issue": "Submit an Issue/Bug Report/Suggestion",
+
+    "Distay_help":"Start Distay in your default browser.",
+    "desktop_panel_help": "Start the Desktop app of Distay.",
+    "settings_help": "Open the Settings for Distay.",
+    "exit_help": "Exit this script.",
+    "support_help": "Get Support for Distay.",
+    "update_help": "Update Distay to the latest available version.",
+    "language_help": "Choose a Language for Distay",
+    "go_back_help": "Go back to the selection panel.",
+    "discord_help": "Open the Discord support server link on your default browser.",
+    "issue_help": "Submit a Issue/Bug Report/Suggestion through GitHub.",
+    "get_help": "Get Help/Support for Distay:",
+
+    "check_installation": "Check if you have installed Distay correctly.",
+    "checking_failure": "System check failed.",
+    "checking_system": "Checking Distay system ...",
+    "check_success": "System check successful.",
+    "updating": "Updating Distay ...",
+    "updating_failure": "Unable to update Distay, error while updating Distay.",
+    "check_index": "Check if index.html exists.",
+    "check_main": "Check if main.js exists.",
+    "check_repo_download_method": "Clone the Repository and try again.",
+    "booting": "Booting up Distay ..."
+}
