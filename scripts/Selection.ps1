@@ -7,6 +7,22 @@
 Clear-Host
 
 <#---------------------------------------
+Language Translator
+---------------------------------------#>
+
+$config = (Get-Content "../config/config.json" -Raw) | ConvertFrom-Json
+
+If ($config.language -eq 'en') {
+    $locales = (Get-Content '../locales/en/panel.json' -Raw) | ConvertFrom-Json
+}
+
+Else {
+    Start-Sleep -Seconds 0.1
+    Write-Host "[ERROR]: INVALID LANGUAGE."
+    Exit
+}
+
+<#---------------------------------------
 Selection
 ---------------------------------------#>
 
