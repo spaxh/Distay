@@ -1,7 +1,7 @@
 <!-- Title -->
 <h1 align="center">Distay</h1>
   <p align="center">
-    Discord Messaging Panel that allows you to message inside of a bot!
+    A dashboard that allows you to leave your account online 24/7!
     <br />
     <br />
     <a href="https://github.com/wendelhammes/Distay/issues/new?assignees=&labels=Bug&template=bug_report.md&title=%5BBUG%5D">Report Bug</a>
