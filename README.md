@@ -15,7 +15,7 @@
 
 ## What's Distay?
 
-<a href="https://github.com/Distay" target="_blank">Distay</a> And a panel that will leave your discord account online for 24 hours without having to be logged in..
+<a href="https://github.com/Distay" target="_blank">Distay</a> And a panel that will leave your discord account online for 24 hours without having to be logged in.
 <br/>
 
 <!-- Features -->
